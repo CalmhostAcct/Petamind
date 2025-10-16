@@ -1,4 +1,5 @@
 # Petamind
+**NOTE: For the open source Petamind editor check it out here: https://github.com/CalmhostAcct/Petamind-Editor/**
 This repository is dedicated to reporting issues related to Petamind.
 👉 You can find the main project website here.
 <br> <a href="https://petamind.gt.tc/">https://petamind.gt.tc/</a>
